@@ -2,7 +2,7 @@
 
 I am a software developer at Madquick Digital Agency Private Limited.
 
-# 👀 I’m interested in ...
+## 👀 I’m interested in ...
 
 - Software Development
 - Web/Desktop App Developer
@@ -13,7 +13,7 @@ I am a software developer at Madquick Digital Agency Private Limited.
 - AI & ML
 
 
-# 💞️ I’m looking to collaborate on ...
+## 💞️ I’m looking to collaborate on ...
 
 - zoro-node-cms
 
